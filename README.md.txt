@@ -1,0 +1,1 @@
+# The folder contains the information about my work on MySQl
