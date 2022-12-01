@@ -1,1 +1,1 @@
-### The repo contains the data about my work on MySQl.
+### The repo contains data about my work on MySQL. 
